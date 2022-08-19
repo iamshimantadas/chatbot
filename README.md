@@ -6,14 +6,23 @@ Using node.js we can build real-time chat application, but we PHP developers als
 #Project download another link: https://microcodes.in/projects/3_chatbot/project.php
 
 Benefits of Chabot’s Chabot gives numerous benefits for the companies and customers. Here I have listed some of them.
+
 i. Customer service will be available 24/7 
+
 ii. Offers seamless live communication 
+
 iii. It saves time and money 
+
 iv. Help grow your business 
+
 v. More targeted marketing 
+
 vi. Reduces human interactions with customers 
+
 vii. Makes smoother customer journey 
+
 viii. Reduces stress for the customers 
+
 ix. Eliminates time consuming tasks Features
 
 #lisence:
